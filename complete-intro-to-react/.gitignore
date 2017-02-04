@@ -4,7 +4,3 @@ node_modules/
 coverage
 .nyc_output
 .DS_Store
-*.map
-*.bundle.js
-_site/
-.sass-cache/
